@@ -1,4 +1,3 @@
-import { title } from 'process';
 import dayjs from "dayjs";
 import weekOfYear from "dayjs/plugin/weekOfYear";
 import { db } from "../db";
