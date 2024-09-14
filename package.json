@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsx watch src/http/server.ts",
     "seed": "tsx src/db/seed.ts",
-    "vercel-build": "npx drizzle-kit migrate"
+    "vercel-build": "npx drizzle-kit push"
   },
   "keywords": [],
   "author": "",
